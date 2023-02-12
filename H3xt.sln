@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3xt", "H3xt\H3xt.csproj", "{1E8B1111-1F84-4B23-AC7A-D9296C3AE0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8B1111-1F84-4B23-AC7A-D9296C3AE0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8B1111-1F84-4B23-AC7A-D9296C3AE0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8B1111-1F84-4B23-AC7A-D9296C3AE0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8B1111-1F84-4B23-AC7A-D9296C3AE0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A291E8-EF63-415E-B750-82645A810113}
+	EndGlobalSection
+EndGlobal
